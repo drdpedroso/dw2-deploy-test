@@ -34,9 +34,9 @@
 </head>
 
 <body id="page-top" class="index">
-	
-	
-	
+
+
+
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -107,12 +107,12 @@
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Desenvolvimento Web</h4>
-                    
+
 					<p class="text-muted">Realizações de projetos votlados a parte de desevolvimento web utilizando as linguagens web para o mesmo.</p>
 					</center>
 				</div>
 			</div>
-			
+
 			<div class="row">
                 <div class="col-md-12 text-center">
                     <span class="fa-stack fa-4x">
@@ -120,12 +120,12 @@
                         <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Redação e Moderação</h4>
-                    
+
 					<p class="text-muted">Projetos de redação e moderação de sites e sistemas web através do WordPress.</p>
 					</center>
 				</div>
 			</div>
-                
+
             </div>
         </div>
     </section>
@@ -140,9 +140,9 @@
                 </div>
             </div>
             <div class="row text-center">
-                
-                
-                
+
+
+
                 <div class="col-md-14 portfolio-item text-center">
                     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
                         <div class="portfolio-hover">
@@ -157,8 +157,8 @@
                         <p class="text-muted"></p>
                     </div>
                 </div>
-                
-                
+
+
             </div>
         </div>
     </section>
@@ -217,7 +217,7 @@
                                 </div>
                             </div>
                         </li>
-                        <li class="timeline-inverted">                            
+                        <li class="timeline-inverted">
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
@@ -241,7 +241,7 @@
                     <h3 class="section-subheading text-muted">Contato Profissional</h3>
                 </div>
             </div>
-            <div class="row">                
+            <div class="row">
                 <div class="col-sm-14">
                     <div class="team-member">
                         <img src="img\about\foto.jpg" class="img-responsive img-circle" alt="" id="Pedro">
@@ -264,35 +264,7 @@
         </div>
     </section>
 
-    <!-- Clients Aside -->
-    <aside class="clients">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/envato.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/designmodo.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/themeforest.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <a href="#">
-                        <img src="img/logos/creative-market.jpg" class="img-responsive img-centered" alt="">
-                    </a>
-                </div>
-            </div>
-        </div>
-    </aside>
-	
-	<!-- Contact Section 
+	<!-- Contact Section
     <section id="contact">
         <div class="container">
             <div class="row">
@@ -329,7 +301,7 @@
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
                                 <button type="submit" class="btn btn-xl">Enviar mensagem</button>
-								
+
                             </div>
                         </div>
                     </form>
@@ -338,13 +310,13 @@
         </div>
     </section>
     -->
-    
+
     <footer>
         <div class="container">
             <div class="row">
                 <div class="col-md-4">
-                    <span class="copyright">Copyright &copy; Your Website 2014</span>
-                </div>                
+                    <span class="copyright">Copyright &copy; Portifolio 2016</span>
+                </div>
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
                         <li><a href="#">Privacidade do Conteúdo.</a>
@@ -516,7 +488,7 @@
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
 	<script src="js/jquery.modal.min.js" type="text/javascript" charset="utf-8"></script>
-	
+
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
